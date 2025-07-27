@@ -6,6 +6,14 @@
 
 ---
 
+## 🎛️ LabVIEW Interface
+
+This project includes a fully interactive LabVIEW UI to visualize submarine attitude and control propulsion:
+
+![LabVIEW UI Preview](LabVIEW_Interface/interface_preview.jpeg)
+
+---
+
 ## 🛠️ System Overview
 
 - 📌 Platform: **Arduino Uno**
